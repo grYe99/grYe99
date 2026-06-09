@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=grYe99&show_icons=true&theme=radical)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=grYe99&show_icons=true&theme=tokyonight)
+
 
 <!--
 **grYe99/grYe99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
