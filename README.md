@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=grYe99&show_icons=true&theme=tokyonight" /> </div>
+[![grYe99's GitHub stats](https://github-readme-stats.vercel.app/api?username=grYe99)](https://github.com/grYe99/github-readme-stats)
 
 
 <!--
